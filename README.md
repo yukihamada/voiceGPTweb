@@ -1,16 +1,22 @@
-# Chatweb.ai
+# voiceGPTweb
 
-Chatweb.ai is a web application for a chat UI that utilizes large language models such as GPT-3 and GPT-4 to provide dynamic prompt generation and action addition functionalities. It also comes with a webhook feature that supports multiple messenger apps, making it accessible on a wide range of platforms.
+voiceGPTweb is a user-friendly web application that enables voice-based conversations with language models such as GPT-3 and GPT-4. The project's goal is to achieve more natural language processing, increase knowledge, and create a new ecosystem where open extensions such as plugins can be added.
+
+The application features a chat UI web app and webhook functionality that are compatible with multiple messaging platforms. voiceGPTweb generates clear and easy-to-understand content, including Japanese, to provide a seamless voice conversation experience. It is a lightweight open-source application that is ideal for beginners and has high customization capabilities. The ultimate goal is to assist users in performing various tasks with just voice commands.
+
+## Try First
+
+https://chatweb.ai
+or
+https://replit.com/@yuki36/voiceGPTweb?v=1
 
 ## Key Features
 
-- Utilizes powerful language models such as GPT series and PaLM to improve natural language processing.
-- Provides flexibility for users to add their own prompts and actions.
+- Utilizes a fast and responsive voice interactive UI, allowing users to add their own prompts and actions.
 - Comes with a chat UI web application and webhook functionalities that support multiple messenger apps.
-- Designed to record and retain user state, as well as understand past conversations.
-- Generates human-readable content and enables more intuitive interactions, including Japanese.
-- Lightweight and beginner-friendly open-source application that is easy to set up.
-- Offers robust extension capabilities for easy feature expansion.
+- Designed to understand past conversations and record user state for a more personalized experience.
+- Generates human-readable content, including Japanese, for more intuitive interactions.
+- Lightweight and beginner-friendly open-source application.
 
 ## Concerns
 
@@ -40,9 +46,6 @@ If you have any questions or feedback, please create an issue or contact us at t
 - Email: yuki@hamada.tokyo
 - Twitter: @yukihamada
 
-## Acknowledgments
-
-This project utilizes large language models such as GPT-3 and GPT-4 developed by OpenAI. We appreciate their outstanding research and technology.
 
 ## Version History
 

@@ -1,0 +1,221 @@
+:root {
+  --background-color: #333;
+  --text-color: #fff;
+  --input-background-color: #444;
+  --input-text-color: #eee;
+  --input-text-size: 16px;
+  --menu-link-color: #fff;
+  --title-text-size: 24px;
+  --body-text-size: 16px;
+  --footer-height: 150px;
+  --button-height: 50px;
+  --button-font-size: 18px;
+  --button-background-color: #f8a642;
+  --button-hover-color: #de8f3c;
+  --button-active-color: #c17a2e;
+}
+{
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  padding-bottom: var(--footer-height);
+}
+
+#chat {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: var(--footer-height);
+  padding: 5px 10px;
+}
+
+ #messages div {
+  padding: 3px 7px;
+  margin: 3px 0px;
+  border-radius: 10px;
+  float: left;
+  clear: both;
+} 
+
+#chat div.user {
+  background-color: #407294;
+  display: inline-block;
+ float: right;
+  clear: both;
+}
+
+
+.toggle-container {
+display: flex;
+justify-content: center;
+margin-bottom: 10px;
+}
+
+.start-button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+#contents {
+  display: none;
+}
+
+button {
+  background-color: var(--button-background-color);
+  color: var(--text-color);
+  font-size: var(--button-font-size);
+  height: var(--button-height);
+  padding: 0 25px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: var(--button-hover-color);
+}
+
+button:active {
+  background-color: var(--button-active-color);
+}
+
+#startBtn {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 72px;
+  width: 72px;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 35%;
+  background-color: var(--button-background-color);
+  color: var(--text-color);
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#startBtn:hover {
+  transform: translate(-50%, -10%) scale(1.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#stopBtn {
+  position: fixed;
+  bottom: 113px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 32px;
+  width: 32px;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: var(--button-active-color);
+  color: var(--text-color);
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.3s;
+
+}
+#keyboradBtn {
+  position: fixed;
+  bottom: 50px;
+  left: calc(50% + 63px); 
+  transform: translateX(-50%);
+  height: 32px;
+  width: 32px;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: var(--button-active-color);
+  color: var(--text-color);
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.3s; 
+
+}
+  
+
+#stopBtn:hover {
+  opacity: 1;
+}
+
+#stopBtn:disabled {
+  opacity: 0.3;
+  cursor: default;
+  background-color: var(--button-background-color);
+  
+}
+
+#settings-container {
+  position: fixed;
+  top: 35px;
+  right: 70px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: none;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+
+#output {
+  background-color: var(--background-color);
+  color: var(--background-color);
+  border: none;
+  resize: none;
+  width: 100%; 
+  height: 120px;
+  padding: 3px;
+  margin: 3px;
+  overflow: hidden;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  height: auto;
+  overflow-y: hidden;
+  resize: none;
+  display:none;
+}
+
+#start-button {
+  position: fixed;
+  bottom: 45%;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 40px;
+  width: 100px;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: var(--button-active-color);
+  color: var(--text-color);
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.3s;
+
+    }
+.user-image {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  z-index: 10;
+}
+
+
+
+.user-image img {
+  max-width: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+

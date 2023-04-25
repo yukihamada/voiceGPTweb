@@ -1,0 +1,47 @@
+en:
+  instruction: Please speak. Try it in a quiet place. Please try it in Safari or Chrome browser.
+  first_time_text: Nice to meet you. I'm Silly from the chat web. Please tell me your name, and I'll do my best to remember you.
+  welcome_back_text: Welcome back! I'm glad you've returned. Let's chat. Is there something you need help with?
+ja:
+  instruction: お話してください。静かなところでお試し下さい。SafariかChromeのブラウザでお試し下さい。
+  first_time_text: はじめまして。チャットウェブのサイリーです。あなたの名前を教えて下さい。あなたを覚えるように頑張ります。
+  welcome_back_text: おかえりなさいませ。また戻ってきてくれて嬉しいです。お話をしましょう。何かお困りのことはありますか？
+es:
+  instruction: Por favor hable. Pruebe en un lugar tranquilo. Por favor pruebe en el navegador Safari o Chrome.
+  first_time_text: Mucho gusto. Soy Silly de la web de chat. Por favor dígame su nombre y haré todo lo posible para recordarlo.
+  welcome_back_text: ¡Bienvenido de nuevo! Me alegra que hayas regresado. Hablemos. ¿Hay algo en lo que pueda ayudarte?
+fr:
+  instruction: Veuillez parler. Essayez-le dans un endroit calme. Veuillez l'essayer dans le navigateur Safari ou Chrome.
+  first_time_text: Enchanté. Je suis Silly de la web de chat. Veuillez me dire votre nom et je ferai de mon mieux pour vous mémoriser.
+  welcome_back_text: Bienvenue de retour! Je suis content que vous soyez de retour. Discutons. Y a-t-il quelque chose dont vous avez besoin d'aide?
+de:
+  instruction: Bitte sprechen Sie. Probieren Sie es an einem ruhigen Ort aus. Bitte versuchen Sie es im Safari- oder Chrome-Browser.
+  first_time_text: Schön, Sie kennenzulernen. Ich bin Silly von der Chat-Webseite. Bitte sagen Sie mir Ihren Namen, und ich werde mein Bestes tun, um Sie zu erinnern.
+  welcome_back_text: Willkommen zurück! Ich freue mich, dass Sie zurück sind. Lassen Sie uns reden. Brauchen Sie Hilfe bei etwas?
+it:
+  instruction: Parla per favore. Provalo in un luogo tranquillo. Provalo nel browser Safari o Chrome.
+  first_time_text: Piacere di conoscerti. Sono Silly dal sito di chat.
+pt:
+  instruction: Por favor, fale. Tente em um lugar tranquilo. Por favor, tente no navegador Safari ou Chrome.
+  first_time_text: Prazer em conhecê-lo. Sou o Silly do chat web. Por favor, me diga seu nome, e eu farei o meu melhor para lembrar de você.
+  welcome_back_text: Bem-vindo de volta! Fico feliz que tenha retornado. Vamos conversar. Há algo em que eu possa ajudar?
+ru:
+  instruction: Пожалуйста, говорите. Порите в тихом месте. Пожалуйста, попробуйте в браузере Safari или Chrome.
+first_time_text: Приятно познакомиться. Я Силли с чат-веб-сайта. Пожалуйста, скажите мне свое имя, и я постараюсь запомнить вас.
+welcome_back_text: С возвращением! Я рад, что вы вернулись. Давайте поболтаем. Вам нужна помощь в чем-то?
+zh:
+instruction: 请说话。请在安静的地方尝试。请在Safari或Chrome浏览器中尝试。
+first_time_text: 很高兴认识你。我是来自聊天网站的Silly。请告诉我你的名字，我会尽力记住你。
+welcome_back_text: 欢迎回来！我很高兴你回来了。让我们聊聊吧。有什么需要帮助的吗？
+ko:
+instruction: 말씀해주세요. 조용한 곳에서 시도해 보세요. Safari 또는 Chrome 브라우저에서 시도해 보세요.
+first_time_text: 반갑습니다. Chat Web의 Silly입니다. 이름을 알려주세요. 기억하려고 노력하겠습니다.
+welcome_back_text: 다시 돌아와 주셔서 감사합니다! 이야기 나누어 봅시다. 도움이 필요한 것이 있으신가요?
+ar:
+instruction: يُرجى التحدث. حاول في مكان هادئ. يُرجى التجربة في متصفح Safari أو Chrome.
+first_time_text: سعيد بمعرفتك. أنا "سيلي" من موقع الدردشة. يُرجى إخباري بأسمك، وسأبذل قصارى جهدي لتذكرك.
+welcome_back_text: مرحبًا بك مجددًا! أنا سعيد بعودتك. لنتحدث. هل هناك شيء تحتاج إلى مساعدتي فيه؟
+el:
+  instruction: Παρακαλώ μιλήστε. Δοκιμάστε το σε ένα ήσυχο μέρος. Παρακαλώ δοκιμάστε το στον περιηγητή Safari ή Chrome.
+  first_time_text: Χαίρομαι που σας γνωρίζω. Είμαι ο Silly από τον ιστότοπο συνομιλίας. Παρακαλώ πείτε μου το όνομά σας και θα κάνω το καλύτερο για να σας θυμηθώ.
+  welcome_back_text: Καλώς ήρθατε πίσω! Χαίρομαι που επιστρέψατε. Ας μιλήσουμε. Υπάρχει κάτι που μπορώ να βοηθήσω;
