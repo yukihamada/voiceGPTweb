@@ -25,11 +25,37 @@ https://replit.com/@yuki36/voiceGPTweb?v=1
 
 ## Installation
 
-Chatweb.ai runs on any web server that supports PHP, and no database settings are necessary. Clone or download this repository and deploy it on your web server. Customize by adding your own prompts and actions as needed.
+voiceGPTweb runs on any web server that supports PHP, and no database settings are necessary. Clone or download this repository and deploy it on your web server. Customize by adding your own prompts and actions as needed.
 
 ## Usage
 
-Use Chatweb.ai's bot to have conversations with users. Refer to past conversations as needed to provide more appropriate responses or actions.
+Fork from replit
+https://replit.com/@yuki36/voiceGPTweb?v=1
+
+### Setting
+
+Edit Replit's Secret
+```
+{
+  "OpenAI_APIKEY": "",
+  "LINE_APIKEY": "",
+  "LINE_ADMIN": "",
+  "LINE_ACCESS_TOKEN": "",
+  "DISCORD_BOT_TOKEN": "",
+  "GOOGLE_CUSTOM_API_KEY": "",
+  "NEWS_API_KEY": "",
+  "GOOGLE_CLIENT_SECRET": "",
+  "GOOGLE_CLIENT_ID": "",
+  "STRIPE_SECRET_KEY": "",
+  "STRIPE_PUBLIC_KEY": "",
+  "STRIPE_PRICE_ID": "",
+  "SENDGRID_API_KEY": "",
+  "AWS_ACCESS_KEY": "",
+  "AWS_SECRET_KEY": ""
+}
+```
+
+
 
 ## Contribution
 
