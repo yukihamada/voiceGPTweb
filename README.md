@@ -4,7 +4,7 @@ voiceGPTweb is a user-friendly web application that enables voice-based conversa
 
 The application features a chat UI web app and webhook functionality that are compatible with multiple messaging platforms. voiceGPTweb generates clear and easy-to-understand content, including Japanese, to provide a seamless voice conversation experience. It is a lightweight open-source application that is ideal for beginners and has high customization capabilities. The ultimate goal is to assist users in performing various tasks with just voice commands.
 
-## Try First
+## Check it out
 
 https://chatweb.ai
 or
@@ -43,9 +43,7 @@ MIT License
 
 If you have any questions or feedback, please create an issue or contact us at the following:
 
-- Email: yuki@hamada.tokyo
-- Twitter: @yukihamada
-
+https://twitter.com/yukihamada
 
 ## Version History
 
