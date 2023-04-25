@@ -46,9 +46,6 @@ Edit Replit's Secret
   "NEWS_API_KEY": "",
   "GOOGLE_CLIENT_SECRET": "",
   "GOOGLE_CLIENT_ID": "",
-  "STRIPE_SECRET_KEY": "",
-  "STRIPE_PUBLIC_KEY": "",
-  "STRIPE_PRICE_ID": "",
   "SENDGRID_API_KEY": "",
   "AWS_ACCESS_KEY": "",
   "AWS_SECRET_KEY": ""
